@@ -1,0 +1,70 @@
+/* Normal CSS  */
+*{
+    margin: 0;
+    padding: 0;
+}
+h1 h2 h3 h4 h5 h6 p{
+    font-weight: 800;
+    line-height: 1.5;
+}
+.col-lg-5 h4{
+    color:#5E3BEE;
+    margin-bottom: 30px;
+    margin-top: 120px;
+}
+.col-lg-9 d-flex h1{
+    font-size: 50px;
+    font-weight: 800;
+}
+/* banner part  */
+#bannerPart{
+}
+.col-lg-5 h1{
+    margin-bottom: 80px;
+}
+#Sakib{
+    background-color: #E5E5E5;
+}
+a{ 
+    padding: 15px 20px;
+    border: 1px solid #e1dfeb;
+    border-radius: 5px;
+    background-color: #5E3BEE;
+    color: white;
+    text-decoration: none;
+}
+.container{
+    margin-top: 30px;
+}
+.headerOption{
+    justify-content: center;
+}
+.content ul li{
+    justify-content: center;
+    display: flex;
+
+}
+.ul li{
+    display: flex;
+    justify-content: center;
+}
+button{
+    background-color: #5E3BEE;
+    color: white;
+    border-radius: 8px;
+}
+/* Header part End  */
+
+/* Banner Part Start  */
+#bannerPart{
+    padding-top: 16px;
+    padding-bottom: 45px;
+}
+
+/* Service Part  */
+#servicesPart{
+    margin-top: 100px;
+}
+.writtenPart{
+    align-items: center;
+}
