@@ -5,7 +5,7 @@
 }
 h1 h2 h3 h4 h5 h6 p{
     font-weight: 800;
-    line-height: 1.5;
+    line-height: 22px;
 }
 .col-lg-5 h4{
     color:#5E3BEE;
@@ -17,8 +17,6 @@ h1 h2 h3 h4 h5 h6 p{
     font-weight: 800;
 }
 /* banner part  */
-#bannerPart{
-}
 .col-lg-5 h1{
     margin-bottom: 80px;
 }
@@ -67,4 +65,20 @@ button{
 }
 .writtenPart{
     align-items: center;
+}
+.services{
+    margin-top: 170px;
+}
+.servicesLogo{
+    margin-top: 170px;
+    margin-bottom: 145px;
+}
+.col-lg-4 text-center{
+    border: 1px solid #b3add1;
+    border-radius: 10px;
+}
+.designerPart{
+    background-color: #F9F9FC;
+    height: 778px;
+    width: 1210px;
 }
